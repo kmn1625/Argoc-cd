@@ -11,4 +11,4 @@ spec:
     - protocol: TCP
       port: 80          # Service port
       targetPort: 80    # Container port
-      nodePort: 30080   # Optional (auto-assign if removed)
+      nodePort: 30086   # Optional (auto-assign if removed)
